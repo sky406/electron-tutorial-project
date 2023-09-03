@@ -1,0 +1,16 @@
+{
+  "name": "electtontest",
+  "version": "1.0.0",
+  "description": "this is just a tutorial for using electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+    
+  },
+  "author": "sky/wesley",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.1.0"
+  }
+}
